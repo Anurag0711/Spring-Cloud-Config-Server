@@ -1,2 +1,5 @@
-spring.application.name=Confi-dev
+spring:
+  application:
+    name: ConfigServer-dev
+  
 
